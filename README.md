@@ -5,7 +5,7 @@
 ### Problema01 (miniespecificación)
 * Generar el siguiente reporte:
 ```
-1	10 100 1000
+1 10 100 1000
 2	20 200 2000
 3 30 300 3000
 4 40 400 4000
