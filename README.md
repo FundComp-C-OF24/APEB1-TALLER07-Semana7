@@ -1,8 +1,17 @@
-# Taller07
+# Taller07 - GRUPAL
 
-## Diseño de la solución de problemas con algoritmos y pseudocódigo aplicando estructuras lógicas repetitivas.
 
-### Problema01 (miniespecificación)
+## Representación gráfica y diseño de la solución de problemas con miniespecificacioes aplicando estructuras condicionales y repetitivas (si, ciclo mientras, ciclo hacer/mietras y/o ciclo for)
+
+* Leer detenidamente cada problemática propuesta.
+* Plantear el esquema de forma general / breve = ANÁLISIS.
+* Diseñar la solución formal en pseudocódigo A MANO, EN PAPEL O WORD (use algoritmos y/o PSeInt opcionalmente - éste último solo para verificación). Considere las reglas para su representación: Indentación, bloques de definición de variables/dominios y de control (entrada, proceso, salida), etc. 
+* Diseñar la solución en flujograma (DiaUML, Word otros, NO USE PseINT para la entrega final, usará ello solo como verificación, si únicamente adjunta el .psc no será considerado para puntuar).
+* Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word, etc.).
+
+***
+
+### Problema 1
 * Generar el siguiente reporte:
 ```
 1 10 100 1000
@@ -16,7 +25,7 @@
 
 ```
 
-### Problema02 (miniespecificación)
+### Problema02 
 * Generar el siguiente reporte:
 
 ```
@@ -29,6 +38,6 @@
 30	31	32	33
 ```
 
-### Problema03 (miniespecificación)
+### Problema03 
 
 El gerente de una empresa decide a través de un sistema ingresar los datos de ganancias de un rango de días. Por ejemplo de 7 días, pero existen algunas situaciones. Al ingresar la información de ganancias se solicita el monto de ganancia de ese día; si el día ingresado es: Lunes, Viernes, Domingo, a la ganancia del día se le agrega el el 15.3%. Al final se debe presentar la suma de ganancias de esos días y un promedio de las ganancias en función del número de días.
