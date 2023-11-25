@@ -41,3 +41,11 @@
 ### Problema03 
 
 El gerente de una empresa decide a través de un sistema ingresar los datos de ganancias de un rango de días. Por ejemplo de 7 días, pero existen algunas situaciones. Al ingresar la información de ganancias se solicita el monto de ganancia de ese día; si el día ingresado es: Lunes, Viernes, Domingo, a la ganancia del día se le agrega el el 15.3%. Al final se debe presentar la suma de ganancias de esos días y un promedio de las ganancias en función del número de días.
+
+### Problema04 
+
+Se le solicita desarrollar un demo tipo juego, que permita generar un número aleatorio y le rete al usuario que lo adivine. Si no adivina el número, el juego debe sugerirle lo intente nuevamente con pistas (es mayor o menor). Al finalizar el juego, se debe felicitar al usuario si gana y como, o pedir que lo intente de nuevo. 
+
+### Problema05 
+
+N es primo? 
